@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-24 18:17:23,http://zqh2333.top:2222/rtp/239.93.55.54:5140
+2025-11-25 06:13:33,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
