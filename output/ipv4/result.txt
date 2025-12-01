@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-01 06:14:26,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-12-01 18:18:16,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -9,3 +9,4 @@
 
 ☘️广东频道,#genre#
 汕头经济,http://124.222.114.206/sxtv.php?id=st2
+茂名公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7418&tk=a0c4f6cfaba3
