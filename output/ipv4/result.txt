@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-16 06:16:39,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2026-01-16 18:17:42,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -9,4 +9,3 @@
 
 ☘️广东频道,#genre#
 大湾区卫视,https://fn.130519.xyz/gddwq/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-汕头经济,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2962&tk=a0c4f6cfaba3
