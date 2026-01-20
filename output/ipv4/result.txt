@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-20 06:16:12,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2026-01-20 18:21:51,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -8,4 +8,3 @@
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
 ☘️广东频道,#genre#
-大湾区卫视,https://fn.130519.xyz/gddwq/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
