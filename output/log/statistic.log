@@ -1,6 +1,6 @@
-Category: 📺央视频道, Name: CCTV-13, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 3465 ms, Max Speed: 1.05 M/s, Avg Speed: 1.05 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-14, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 3589 ms, Max Speed: 0.93 M/s, Avg Speed: 0.93 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 北京卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 25 ms, Max Speed: 4.15 M/s, Avg Speed: 4.15 M/s, Max Resolution: None
-Category: 📡卫视频道, Name: 河南卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 68 ms, Max Speed: 10.81 M/s, Avg Speed: 10.81 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 西藏卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 1820 ms, Max Speed: 0.54 M/s, Avg Speed: 0.54 M/s, Max Resolution: 1920x1080
-Category: ☘️广东频道, Name: 大湾区卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 24 ms, Max Speed: 19.16 M/s, Avg Speed: 19.16 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-13, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 2048 ms, Max Speed: 1.44 M/s, Avg Speed: 1.44 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-14, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 1957 ms, Max Speed: 1.48 M/s, Avg Speed: 1.48 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 北京卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 69 ms, Max Speed: 1.43 M/s, Avg Speed: 1.43 M/s, Max Resolution: None
+Category: 📡卫视频道, Name: 河南卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 76 ms, Max Speed: 10.15 M/s, Avg Speed: 10.15 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 西藏卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 1409 ms, Max Speed: 0.77 M/s, Avg Speed: 0.77 M/s, Max Resolution: 1920x1080
+Category: ☘️广东频道, Name: 大湾区卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 22 ms, Max Speed: 20.55 M/s, Avg Speed: 20.55 M/s, Max Resolution: 1920x1080
