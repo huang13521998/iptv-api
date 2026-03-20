@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-20 06:21:30,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-03-20 18:31:44,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -8,7 +8,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-西藏卫视,http://cc02.tv12.xyz/9.m3u8
 
 ☘️广东频道,#genre#
 大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=913ec7608066b2e139e10a729ed6e0b277096bf7d1577f04dec2f036a15f6db88631747d218643efc7515ff520286e2a56bc4f2231e6d692da49f8d555d3291bbba71e8f2993d5487b41afa6bf
