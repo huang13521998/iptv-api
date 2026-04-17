@@ -1,4 +1,7 @@
-Category: 📺央视频道, Name: CCTV-13, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 2769 ms, Max Speed: 1.11 M/s, Avg Speed: 1.11 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-14, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 2799 ms, Max Speed: 1.06 M/s, Avg Speed: 1.06 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 北京卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 69 ms, Max Speed: 1.42 M/s, Avg Speed: 1.42 M/s, Max Resolution: None
-Category: 📡卫视频道, Name: 河南卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 50 ms, Max Speed: 21.02 M/s, Avg Speed: 21.02 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-13, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 2892 ms, Max Speed: 0.98 M/s, Avg Speed: 0.98 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-14, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 2863 ms, Max Speed: 0.98 M/s, Avg Speed: 0.98 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 北京卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10 ms, Max Speed: 10.93 M/s, Avg Speed: 10.93 M/s, Max Resolution: None
+Category: 📡卫视频道, Name: 河南卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 24 ms, Max Speed: 37.08 M/s, Avg Speed: 37.08 M/s, Max Resolution: 1920x1080
+Category: ☘️广东频道, Name: 大湾区卫视, Total: 12, Valid: 12, Valid Percent: 100.00%, Whitelist: 0, IPv4: 8, IPv6: 4, Min Delay: 23 ms, Max Speed: 19.10 M/s, Avg Speed: 6.35 M/s, Max Resolution: 3840x2160
+Category: ☘️广东频道, Name: 江门侨乡生活, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 45 ms, Max Speed: 0.01 M/s, Avg Speed: 0.01 M/s, Max Resolution: None
+Category: ☘️广东频道, Name: 汕头经济, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2079 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
