@@ -1,7 +1,4 @@
-Category: 📺央视频道, Name: CCTV-13, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 2501 ms, Max Speed: 1.14 M/s, Avg Speed: 1.14 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-14, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 2697 ms, Max Speed: 1.08 M/s, Avg Speed: 1.08 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 北京卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 84 ms, Max Speed: 1.20 M/s, Avg Speed: 1.20 M/s, Max Resolution: None
-Category: 📡卫视频道, Name: 河南卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 230 ms, Max Speed: 3.42 M/s, Avg Speed: 3.42 M/s, Max Resolution: 1920x1080
-Category: ☘️广东频道, Name: 大湾区卫视, Total: 8, Valid: 8, Valid Percent: 100.00%, Whitelist: 0, IPv4: 8, IPv6: 0, Min Delay: 3301 ms, Max Speed: 0.38 M/s, Avg Speed: 0.10 M/s, Max Resolution: 3840x2160
-Category: ☘️广东频道, Name: 汕头文旅, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 4301 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️广东频道, Name: 茂名公共, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 97 ms, Max Speed: 0.01 M/s, Avg Speed: 0.01 M/s, Max Resolution: None
+Category: 📺央视频道, Name: CCTV-13, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 3193 ms, Max Speed: 1.07 M/s, Avg Speed: 1.07 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-14, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 2381 ms, Max Speed: 1.21 M/s, Avg Speed: 1.21 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 北京卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 34 ms, Max Speed: 2.64 M/s, Avg Speed: 2.64 M/s, Max Resolution: None
+Category: 📡卫视频道, Name: 河南卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 192 ms, Max Speed: 6.77 M/s, Avg Speed: 6.77 M/s, Max Resolution: 1920x1080
