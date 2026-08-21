@@ -1,13 +1,3 @@
-Name: CCTV-13, URL: https://event.pull.hebtv.com/jishi/cp1.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2507 ms, Speed: 1.17 M/s, Resolution: 1920x1080
-Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2575 ms, Speed: 1.18 M/s, Resolution: 1920x1080
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 34 ms, Speed: 2.70 M/s, Resolution: None
-Name: 大湾区卫视, URL: http://222.128.55.152:9080/live/dwq.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 10566 ms, Speed: 0.29 M/s, Resolution: 1920x1080
-Name: 大湾区卫视, URL: http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-梅州, ISP: 移动, Date: None, Delay: 10632 ms, Speed: 0.17 M/s, Resolution: 3840x2160
-Name: 大湾区卫视, URL: http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&amp;amp;playlive=0&amp;amp;authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-梅州, ISP: 移动, Date: None, Delay: 10390 ms, Speed: 0.11 M/s, Resolution: 3840x2160
-Name: 大湾区卫视, URL: http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-梅州, ISP: 移动, Date: None, Delay: 10204 ms, Speed: 0.07 M/s, Resolution: 3840x2160
-Name: 大湾区卫视, URL: http://183.11.239.36:808/hls/132/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10429 ms, Speed: 0.05 M/s, Resolution: 1920x1080
-Name: 大湾区卫视, URL: http://gmxw.7766.org:808/hls/132/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10834 ms, Speed: 0.04 M/s, Resolution: 1920x1080
-Name: 大湾区卫视, URL: http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1733&tk=e640d0a1bf70, From: subscribe, IPv_Type: ipv4, Location: 美国-亚利桑那州-马里科帕, ISP: Nobis技术集团有限公司, Date: None, Delay: 3401 ms, Speed: 0.00 M/s, Resolution: None
-Name: 大湾区卫视, URL: http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7421&tk=a0c4f6cfaba3, From: subscribe, IPv_Type: ipv4, Location: 美国-亚利桑那州-马里科帕, ISP: Nobis技术集团有限公司, Date: None, Delay: 3542 ms, Speed: 0.00 M/s, Resolution: None
-Name: 汕头经济, URL: http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ed8811&tk=822270345d4c, From: subscribe, IPv_Type: ipv4, Location: 荷兰-北荷兰省-哈勒姆, ISP: LeaseWeb(AMS01)数据中心, Date: None, Delay: 1338 ms, Speed: 0.00 M/s, Resolution: None
-Name: 汕头经济, URL: http://124.222.114.206/sxtv.php?id=st2, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 腾讯云, Date: None, Delay: 207 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: CCTV-13, URL: https://event.pull.hebtv.com/jishi/cp1.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 3068 ms, Speed: 0.93 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 3927 ms, Speed: 0.76 M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 6 ms, Speed: 17.54 M/s, Resolution: None
