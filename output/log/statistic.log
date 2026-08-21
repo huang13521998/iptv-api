@@ -1,3 +1,8 @@
-Category: 📺央视频道, Name: CCTV-13, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 3068 ms, Max Speed: 0.93 M/s, Avg Speed: 0.93 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-14, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 3927 ms, Max Speed: 0.76 M/s, Avg Speed: 0.76 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 北京卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 6 ms, Max Speed: 17.54 M/s, Avg Speed: 17.54 M/s, Max Resolution: None
+Category: 📺央视频道, Name: CCTV-13, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 2887 ms, Max Speed: 1.01 M/s, Avg Speed: 1.01 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-14, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 2963 ms, Max Speed: 1.04 M/s, Avg Speed: 1.04 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 北京卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 52 ms, Max Speed: 2.02 M/s, Avg Speed: 2.02 M/s, Max Resolution: None
+Category: ☘️广东频道, Name: 大湾区卫视, Total: 7, Valid: 7, Valid Percent: 100.00%, Whitelist: 0, IPv4: 7, IPv6: 0, Min Delay: 7204 ms, Max Speed: 0.73 M/s, Avg Speed: 0.17 M/s, Max Resolution: 3840x2160
+Category: ☘️广东频道, Name: 汕头经济, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 241 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
+Category: ☘️广东频道, Name: 汕头文旅, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 5156 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️广东频道, Name: 茂名综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 5201 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️广东频道, Name: 茂名公共, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 4114 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
